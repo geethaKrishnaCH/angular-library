@@ -13,7 +13,8 @@ import { BioComponent } from './bio/bio.component';
   imports: [
   ],
   exports: [
-    IntroComponent
+    IntroComponent,
+    BioComponent
   ]
 })
 export class CommonsModule { }
